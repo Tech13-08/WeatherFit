@@ -8,7 +8,7 @@ namespace WeatherFit.Services
     public class GroqService
     {
         private static readonly HttpClient client = new HttpClient();
-        private const string ApiKey = "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";
+        private const string ApiKey = "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";
 
         public async Task<string> GetGroqAnalysis(string weatherData, string closetData)
         {

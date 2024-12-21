@@ -236,6 +236,7 @@ namespace WeatherFit
         private void LoadClosetComboBox()
         {
             clothingItemsPanel.Controls.Clear();
+            closetComboBox.Items.Clear();
             clothingItemTextBox.Visible = false;
             addClothingButton.Visible = false;
             deleteClosetButton.Visible = false;

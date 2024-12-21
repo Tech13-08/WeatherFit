@@ -505,3 +505,5 @@ C:\Users\falak\Downloads\Repos\WeatherFit\obj\Release\net8.0-windows\win-x64\ref
 C:\Users\falak\Downloads\Repos\WeatherFit\obj\Release\net8.0-windows\win-x64\WeatherFit.pdb
 C:\Users\falak\Downloads\Repos\WeatherFit\obj\Release\net8.0-windows\win-x64\WeatherFit.genruntimeconfig.cache
 C:\Users\falak\Downloads\Repos\WeatherFit\obj\Release\net8.0-windows\win-x64\ref\WeatherFit.dll
+C:\Users\falak\Downloads\Repos\WeatherFit\obj\Release\net8.0-windows\win-x64\WeatherFit.sourcelink.json
+C:\Users\falak\Downloads\Repos\WeatherFit\bin\Release\net8.0-windows\win-x64\System.Private.Windows.Core.dll

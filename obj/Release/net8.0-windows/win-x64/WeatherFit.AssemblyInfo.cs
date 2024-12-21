@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeatherFit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b65194d7000693a9f500ebfad15101674ab14584")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeatherFit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeatherFit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

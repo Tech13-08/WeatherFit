@@ -53,3 +53,8 @@ C:\Users\falak\Downloads\Repos\WeatherFit\bin\Debug\net8.0-windows\System.Text.J
 C:\Users\falak\Downloads\Repos\WeatherFit\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
 C:\Users\falak\Downloads\Repos\WeatherFit\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\falak\Downloads\Repos\WeatherFit\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\falak\Downloads\Repos\WeatherFit\obj\Debug\net8.0-windows\WeatherFit.sourcelink.json
+C:\Users\falak\Downloads\Repos\WeatherFit\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\falak\Downloads\Repos\WeatherFit\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\falak\Downloads\Repos\WeatherFit\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\falak\Downloads\Repos\WeatherFit\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
